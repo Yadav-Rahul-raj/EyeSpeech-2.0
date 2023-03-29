@@ -1,0 +1,5 @@
+Step 1: Download the shape_predictor_68_face_landmarks.dat file
+
+Step 2: Run EyeSpeech.py file
+
+Step 3: EyeAudio.mp3 and EyeSpeech.txt will be created by running of EyeSpeech.py file
