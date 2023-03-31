@@ -116,7 +116,7 @@ https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html
 ## Keyboard Image:
 ---
 
-[image](https://user-images.githubusercontent.com/79536149/229052692-3c22a438-fe61-4c6e-b8f5-ae177a846082.png)
+![image](https://user-images.githubusercontent.com/79536149/229052692-3c22a438-fe61-4c6e-b8f5-ae177a846082.png)
 
 
 >
