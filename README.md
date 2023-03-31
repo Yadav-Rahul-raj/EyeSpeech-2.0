@@ -113,24 +113,11 @@ For more information follow below Link:
 https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html
 >
 
-## Keyboard settings:
+## Keyboard Image:
 ---
 
-Keyboard is divided into 2 part i.e. 
-1. Left
-2. Right
+![Keyboard1](![image](https://user-images.githubusercontent.com/79536149/229052692-3c22a438-fe61-4c6e-b8f5-ae177a846082.png)
 
-![Keyboard1](Images/Keyboard1.png)
-
-### Left keyboard contains following keys:
-*To select Left keyboard, move yours Eye ball(see) on `LEFT SIDE`.*
-
-![Keyboard2](Images/Keyboard2.png)
-
-### Right keyboard contains following keys:
-*To select Right keyboard, move yours Eye ball(see) on `RIGHT SIDE`.*
-
-![keyboard3](https://user-images.githubusercontent.com/79536149/172660925-de7a6585-2269-4f26-93a7-51c99210c371.png)
 
 >
 ## Explaination of project:
@@ -145,7 +132,7 @@ Keyboard is divided into 2 part i.e.
 
 - Pressed key will be Displayed on `BOARD`.
 
-- To exit the program, close (*Blink*) your eye at `Ext` key which is in `Left Keyboard` else press `ENTER` key on the keyboard.
+- To exit the program, close (*Blink*) your eye at `Ext` key else press `ESC` key on the keyboard.
 
 - As the program is closed, `BOARD TEXT` is saved into file & also it is converted into `AUDIO` file.
 
@@ -162,13 +149,3 @@ Keyboard is divided into 2 part i.e.
 - The person whoes whole body, hand, mouth is paralyzed, for them this is usesful.
 
 - The Best example can be `Dr. Stephen Hawking` whoes whole body is paralyzed except cheek then also with the help of cheek he has written many books.
-
-- Instead of alphabets if we give option like `Water`, `Food`, `Bath` etc then that would be more useful for paralized person to say there basic necessarity.
-
->
-## Summary:
-***
-*There are some limitation of this program but with some improvements, this program can be made best.*
-
-
-
